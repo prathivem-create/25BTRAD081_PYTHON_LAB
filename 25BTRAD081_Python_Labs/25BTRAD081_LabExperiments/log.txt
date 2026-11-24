@@ -1,0 +1,5 @@
+ERROR: File not found
+WARNING: Low memory
+INFO: User logged in
+ERROR: Connection failed
+INFO: Application closed
